@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c90982c2-bc54-4eff-8a2f-964128464e61" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\Youcode\\Desktop\\mobile_movie_app\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1748082640925</updated>
       <workItem from="1748082643327" duration="187000" />
-      <workItem from="1748082851854" duration="940000" />
+      <workItem from="1748082851854" duration="1288000" />
+      <workItem from="1748084169716" duration="769000" />
     </task>
     <servers />
   </component>
