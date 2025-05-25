@@ -7,7 +7,6 @@
     <list default="true" id="c90982c2-bc54-4eff-8a2f-964128464e61" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,8 @@
       <workItem from="1748082851854" duration="1288000" />
       <workItem from="1748084169716" duration="1453000" />
       <workItem from="1748086605854" duration="69000" />
+      <workItem from="1748171860134" duration="634000" />
+      <workItem from="1748172833282" duration="98000" />
     </task>
     <servers />
   </component>
